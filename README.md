@@ -39,4 +39,4 @@ Utilized interactive filters for Country and Month to enhance user experience.
 - Incorporate predictive analytics for sales forecasting.
 - Enhance UI/UX with additional interactive elements.
 
-Open to collaboration for enhancing features or integrating with live data sources.
+# Open to collaboration for enhancing features or integrating with live data sources.
