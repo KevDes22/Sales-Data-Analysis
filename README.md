@@ -11,7 +11,7 @@
 
 - Profit Trends: Analyzed monthly profit generation, noting a peak of 3M in November and subsequent decline, suggesting seasonality or market shifts.
 - Product Sales: Identified top-performing products like Passo (2.0M units) and VTT (1.5M units), indicating strong market demand.
-- Segment Performance: Highlighted Government and Small Business segments as key revenue drivers (2.0M and 1.5M respectively).
+- Segment Performance: Highlighted Government and Small Business segments as key revenue drivers (2.0M and 1.5M, respectively).
 - Geographical Distribution: Units sold by country (e.g., 20.1% Canada, 26.4% USA) reveal regional sales concentration opportunities.
 
 ### Data Visualization
@@ -21,8 +21,8 @@ Utilized interactive filters for Country and Month to enhance user experience.
 
 ### Technologies Used
 
-- MicroSoft Excel for Data Cleaning and Manupulation
-- Power BI for Data Visulization
+- Microsoft Excel for Data Cleaning and Manipulation
+- Power BI for Data Visualization
 
 ### Insights and Recommendations
 
