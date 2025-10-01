@@ -24,6 +24,8 @@ Utilized interactive filters for Country and Month to enhance user experience.
 - Microsoft Excel for Data Cleaning and Manipulation
 - Power BI for Data Visualization
 
+### Results
+![Result](https://github.com/KevDes22/Sales-Data-Analysis/blob/main/sale.PNG)
 ### Insights and Recommendations
 
 - Leverage high-performing products (Passo, VTT) and segments (Government, Small Business) to stabilize profits.
